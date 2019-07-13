@@ -1,6 +1,6 @@
 # Max Youtube Channel (Max Base)
 
-A repository for **Max Base** Youtube Channel.
+A repository for **Max Base** [Youtube Channel](https://www.youtube.com/channel/UCvot9gY0qHT_L6ivS_Uh9GQ).
 
 ### Jul 11, 2019
 
